@@ -1,0 +1,45 @@
+{
+  "name": "@poulpe/eslint-config-enedis",
+  "version": "1.0.0",
+  "description": "ESLint and Prettier Config from Victor de la Fouchardiere",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "typescript",
+    "eslint",
+    "config",
+    "prettier"
+  ],
+  "standard-version": {
+    "skip": {
+      "changelog": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aberkati/eslint-config-enedis.git"
+  },
+  "author": "Anas BERKATI",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.36.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.7"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.36.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.7"
+  }
+}
