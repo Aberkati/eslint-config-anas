@@ -39,9 +39,8 @@ module.exports = {
       "error",
       {
         trailingComma: "es5",
-        singleQuote: true,
-        printWidth: 80,
-        tabWidth: 9,
+        printWidth: 120,
+        tabWidth: 2,
         semi: true,
       },
     ],
@@ -50,5 +49,7 @@ module.exports = {
     "simple-import-sort/imports": "error",
     "simple-import-sort/exports": "error",
     "import/newline-after-import": "error",
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off"
   },
 };
