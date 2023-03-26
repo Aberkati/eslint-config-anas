@@ -1,5 +1,5 @@
 {
-  "name": "@enedis/eslint-config-poulpe",
+  "name": "eslint-config-berkati",
   "version": "1.0.1",
   "description": "ESLint and Prettier Config from Anas BERKATI",
   "main": "index.js",
