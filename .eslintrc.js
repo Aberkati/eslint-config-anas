@@ -39,9 +39,6 @@ module.exports = {
       "error",
       {
         endOfLine: "auto",
-      },
-      "error",
-      {
         trailingComma: "es5",
         printWidth: 120,
         tabWidth: 2,
