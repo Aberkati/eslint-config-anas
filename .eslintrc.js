@@ -40,9 +40,9 @@ module.exports = {
       {
         endOfLine: "auto",
         trailingComma: "es5",
-        printWidth: 120,
-        tabWidth: 2,
-        semi: true,
+        printWidth: 10,
+        tabWidth: 5,
+        semi: false,
         singleQuote: false,
         jsxSingleQuote: false,
         bracketSameLine: false,
