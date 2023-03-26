@@ -1,5 +1,5 @@
 {
-  "name": "@poulpe/eslint-config-enedis",
+  "name": "poulpeenedis",
   "version": "1.0.0",
   "description": "ESLint and Prettier Config from Victor de la Fouchardiere",
   "main": "index.js",
@@ -19,6 +19,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aberkati/eslint-config-enedis.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "author": "Anas BERKATI",
   "license": "MIT",
