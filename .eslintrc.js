@@ -40,10 +40,12 @@ module.exports = {
       {
         trailingComma: "es5",
         printWidth: 120,
-        tabWidth: 9,
-        semi: false,
+        tabWidth: 2,
+        semi: true,
         singleQuote:false,
-        jsxSingleQuote : false
+        jsxSingleQuote : false,
+        bracketSameLine  : false,
+        bracketSpacing : true
       },
     ],
     "react/react-in-jsx-scope": "off",
