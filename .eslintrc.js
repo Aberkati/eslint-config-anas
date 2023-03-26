@@ -39,9 +39,9 @@ module.exports = {
       "warn",
       {
         trailingComma: "es5",
-        printWidth: 12,
-        tabWidth: 2,
-        semi: true,
+        printWidth: 120,
+        tabWidth: 9,
+        semi: false,
         singleQuote:false,
         jsxSingleQuote : false
       },
