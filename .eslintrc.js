@@ -36,7 +36,7 @@ module.exports = {
   ignorePatterns: ["node_modules/", ".next/"],
   rules: {
     "prettier/prettier": [
-      "warn",
+      "error",
       {
         trailingComma: "es5",
         printWidth: 120,
