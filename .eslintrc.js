@@ -38,14 +38,18 @@ module.exports = {
     "prettier/prettier": [
       "error",
       {
+        endOfLine: "auto",
+      },
+      "error",
+      {
         trailingComma: "es5",
         printWidth: 120,
         tabWidth: 2,
         semi: true,
-        singleQuote:false,
-        jsxSingleQuote : false,
-        bracketSameLine  : false,
-        bracketSpacing : true
+        singleQuote: false,
+        jsxSingleQuote: false,
+        bracketSameLine: false,
+        bracketSpacing: true,
       },
     ],
     "react/react-in-jsx-scope": "off",
@@ -53,7 +57,7 @@ module.exports = {
     "simple-import-sort/imports": "error",
     "simple-import-sort/exports": "error",
     "import/newline-after-import": "error",
-     "react/jsx-uses-react": "off",
-    "react/react-in-jsx-scope": "off"
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off",
   },
 };
