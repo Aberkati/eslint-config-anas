@@ -1,1 +1,1 @@
-Salam, This is a prettier and ESLint package for frontend developers.
+This is a prettier and ESLint package for frontend developers.
